@@ -1,0 +1,24 @@
+**************IPL Match Winner Prediction*************8
+
+
+This Python script analyzes Indian Premier League (IPL) match data to predict match winners using machine learning techniques. It utilizes libraries like Pandas, NumPy, Matplotlib, Seaborn, Plotly, and Scikit-learn for data handling, visualization, and modeling.
+
+Features
+Loads "Trainmatches.csv" and "TrainDeliveries.csv" datasets.
+Handles missing data and performs data cleaning.
+Creates a feature table with match-related details and team performance metrics.
+Analyzes seasonal team performance and visualizes it.
+Investigates the correlation between toss winners and match winners.
+Calculates runs scored per over and analyzes batting/bowling averages.
+Trains models for prediction:
+Gaussian Naive Bayes
+Decision Tree Regressor
+Support Vector Machine (SVM)
+Usage
+Place datasets in the script directory.
+Install required libraries using pip install pandas numpy matplotlib seaborn plotly scikit-learn.
+Run the script.
+Contributors
+[Your Name]
+[Your Email]
+Replace [Your Name] and [Your Email] with your information. Feel free to add more details based on your needs.
